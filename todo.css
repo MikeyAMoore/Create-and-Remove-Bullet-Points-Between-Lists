@@ -1,0 +1,15 @@
+body {
+    background-image: url("pexels-gareth-davies-910411.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: xx-large;
+    font-feature-settings: "aalt";
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: blueviolet;
+}
+
+.todoItem:hover {
+      cursor: pointer;
+}
